@@ -1,0 +1,1 @@
+to run in vscode use mvn spring-boot:run
